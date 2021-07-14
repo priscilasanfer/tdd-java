@@ -2,8 +2,8 @@
 
 ## TDD e Java: Testes automatizados com JUnit
 
-Curso: https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit. 
-Formaçãoh: ttps://cursos.alura.com.br/formacao-arquitetura-design-projetos-java
+Curso: https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit.   
+Formação: https://cursos.alura.com.br/formacao-arquitetura-design-projetos-java. 
 
 Conteúdo: 
 - Entenda a importância de escrever testes automatizados em uma aplicação
